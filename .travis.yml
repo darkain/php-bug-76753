@@ -18,4 +18,4 @@ php:
   - hhvm-3.24
   - hhvm-nightly
 
-script: "76753.php"
+script: "php 76753.php"
